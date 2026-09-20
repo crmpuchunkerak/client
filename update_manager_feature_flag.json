@@ -1,1 +1,10 @@
-{}
+{
+  "update_manager": true,
+  "feature_flags": {
+    "enabled": true,
+    "download_cache": true,
+    "check_updates": true
+  },
+  "flags": []
+}
+
