@@ -1,7 +1,7 @@
 {
-  "cache_url": "https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
-  "download_url": "https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
-  "url": "https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
-  "url_cache": "https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
+  "cache_url": "https://corsproxy.io/?https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
+  "download_url": "https://corsproxy.io/?https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
+  "url": "https://corsproxy.io/?https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
+  "url_cache": "https://corsproxy.io/?https://github.com/crmpuchunkerak/client/releases/download/v1/cache.zip",
   "version": "1.1.1"
 }
