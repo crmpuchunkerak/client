@@ -1,21 +1,21 @@
 {
   "type_download_resources": {
-    "rustore": "patch_index_json",
-    "google_play": "patch_index_json",
-    "site": "patch_index_json",
-    "ios": "patch_index_json"
+    "rustore": "hash_json",
+    "google_play": "hash_json",
+    "site": "hash_json",
+    "ios": "hash_json"
   },
   "type_download_resources_2": {
-    "rustore": "patch_index_json",
-    "google_play": "patch_index_json",
-    "site": "patch_index_json",
-    "ios": "patch_index_json"
+    "rustore": "hash_json",
+    "google_play": "hash_json",
+    "site": "hash_json",
+    "ios": "hash_json"
   },
   "type_download_resources_3": {
-    "rustore": "patch_index_json",
-    "google_play": "patch_index_json",
-    "site": "patch_index_json",
-    "ios": "patch_index_json"
+    "rustore": "hash_json",
+    "google_play": "hash_json",
+    "site": "hash_json",
+    "ios": "hash_json"
   },
   "candidate_versions": {
     "rustore": 0,
